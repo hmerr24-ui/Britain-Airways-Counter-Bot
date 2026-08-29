@@ -1,26 +1,15 @@
-# Britain Airways Counter Bot v3
-
-Commands:
-- `/counter create`
-- `/counter edit`
-- `/counter refresh`
-- `/counter delete`
+# Britain Airways Counter Bot v4
+Fresh member fetching and role-ID based Pilot/Verified counters.
 
 Railway variables:
-- DISCORD_TOKEN
-- CLIENT_ID
-- GUILD_ID
-- PILOT_ROLE_ID
-- VERIFIED_ROLE_ID
+DISCORD_TOKEN
+CLIENT_ID
+GUILD_ID
+PILOT_ROLE_ID
+VERIFIED_ROLE_ID
 
-Discord bot permissions:
-- View Channels
-- Send Messages
-- Embed Links
-- Manage Channels
+Discord Developer Portal:
+Enable Server Members Intent and Presence Intent.
 
-Privileged intent:
-- Server Members Intent
-
-Pilot and Verified counters use the configured role IDs.
-Flights Completed is reserved for the Pilot Tracker integration.
+Bot permissions:
+View Channels, Send Messages, Embed Links, Manage Channels.
