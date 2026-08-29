@@ -1,5 +1,5 @@
-# Britain Airways Counter Bot
+# Britain Airways Counter Bot v2
 Commands: /counter create, /counter edit, /counter refresh, /counter delete.
-Staff only. Creates locked voice-channel counters.
-Requires DISCORD_TOKEN, CLIENT_ID and GUILD_ID.
-Bot permissions: View Channels, Manage Channels, Send Messages, Embed Links.
+The create/edit commands open a selection menu. Selected counters become locked voice channels.
+Variables: DISCORD_TOKEN, CLIENT_ID, GUILD_ID.
+Permissions: View Channels, Send Messages, Embed Links, Manage Channels.
